@@ -1,0 +1,46 @@
+.part-1{
+    border: 5px solid black;
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec-1{
+    width: 150px;
+    height: 80px;
+    background-color: beige;
+    margin-bottom: 20px;
+    
+}
+
+.sec-2{
+    width: 150px;
+    height: 100px;
+    background-color: yellowgreen;
+}
+
+.part-2{
+    background-color: black;
+    width: 400px;
+    height: 400px;
+}
+.head{
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid gray;
+}
+
+.main{
+    width: 700px;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
